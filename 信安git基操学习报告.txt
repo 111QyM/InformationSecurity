@@ -1,0 +1,11 @@
+1.https://git-scm.com/book/zh/v2
+2.https://jrhar.blog.csdn.net/article/details/116703787
+3.https://blog.csdn.net/fhuan123/article/details/84915617?ops_request_misc=&request_id=&biz_id=102&utm_term=git%20gui%20%E5%9B%BE%E5%BD%A2%E5%8C%96%E7%95%8C%E9%9D%A2%E6%93%8D%E4%BD%9C&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-84915617.142^v47^control_1,201^v3^control_1&spm=1018.2226.3001.4187
+
+（在仓库位置右键git bash here）
+命令行-gitk	进入图形化界面	历史记录的图形化查看器
+
+（在仓库位置右键git gui here）
+命令行 -git gui	进入图形化界面 	主要是一个用来制作提交的工具
+rescan刷新列表，stage changed改变状态，sign off检查完成，commit提交到缓存区，push上传到服务器
+依次点击stage changed，sign off，commit，push，将文件上传到服务器。
